@@ -1,0 +1,23 @@
+[
+    {
+        "hour": "10:00 - 10:40",
+        "lecture": "ABC Dersi"
+    },
+    {
+        "hour": "11:00 - 11:40",
+        "lecture": "XYZ Dersi"
+    },
+    {
+        "hour": "12:00 - 12:40",
+        "lecture": "ABC Dersi"
+    },
+    {
+        "hour": "14:00 - 14:40",
+        "lecture": "ABC Dersi"
+    },
+    {
+        "hour": "15:00 - 16:40",
+        "lecture": "ABC Dersi"
+    },
+    
+]
